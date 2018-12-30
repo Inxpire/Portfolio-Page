@@ -1,0 +1,55 @@
+body {
+    color: #484545;
+}
+
+h2 {
+    font-weight: 300;
+}
+
+.more-info-padding {
+    padding-top: 5%;
+}
+
+.footer-bg-color {
+    background-color: lightgray;
+}
+
+.rights-padding {
+    padding-top: 1%;
+}
+
+
+.footer-bg {
+    background-color: lightgray;
+    padding: 0;
+}  
+
+.main-image {
+    padding-top: 5%;
+        padding-bottom: 2%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #4d4d81;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
